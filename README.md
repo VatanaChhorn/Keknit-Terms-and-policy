@@ -177,3 +177,6 @@ BY USING SERVICE OR OTHER SERVICES PROVIDED BY US, YOU ACKNOWLEDGE THAT YOU HAVE
 ### 21. Contact Us
 
 Please send your feedback, comments, requests for technical support by email: onlyvatana22@gmail.com.
+
+### 22. TERMS AND POLICY URL 
+https://vatanachhorn.github.io/Keknit-Terms-and-policy/
