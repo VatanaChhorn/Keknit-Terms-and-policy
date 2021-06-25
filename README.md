@@ -180,3 +180,7 @@ Please send your feedback, comments, requests for technical support by email: on
 
 ### 22. TERMS AND POLICY URL 
 https://vatanachhorn.github.io/Keknit-Terms-and-policy/
+
+### app-ads.txt
+
+google.com, pub-5889632845479658, DIRECT, f08c47fec0942fa0
